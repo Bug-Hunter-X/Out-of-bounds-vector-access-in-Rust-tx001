@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: out-of-bounds vector access. The `bug.rs` file contains code that will panic at runtime due to an out-of-bounds access.  The `bugSolution.rs` file demonstrates how to safely access vector elements using methods that handle out-of-bounds errors gracefully.  This example highlights the importance of robust error handling in Rust.
